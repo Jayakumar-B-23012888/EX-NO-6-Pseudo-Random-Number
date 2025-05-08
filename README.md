@@ -17,7 +17,7 @@ End the program.
 Name     : Jayakumar B
 Reg. No. : 212223040073
 ```
-```PY
+```C
 #include <stdio.h>
 
 #define A 1664525
